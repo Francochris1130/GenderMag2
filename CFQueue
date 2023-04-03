@@ -1,0 +1,25 @@
+package GenderMagP2;
+import java.util.*;
+
+public interface CFQueue <T> {
+	//Adds a new element to the end
+    void addSong(T song);
+
+    //Removes all elements
+    void deleteAll();
+
+    //Returns true if the queue is empty
+    boolean isEmpty();
+
+    //Returns the first element in the queue
+    T peekSong();
+
+    //Adds a new element to the beginning
+    void pushSong(T song);
+
+    //Removes and returns the first element
+    T removeSong();
+
+    //Returns number of elements
+    int size();
+}
