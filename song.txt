@@ -1,0 +1,26 @@
+IDs:,Names:,Artists:,Albums:,Years:
+3408724,Angel,Shaggy,Hot Shot,2000
+4226609,Efecto,Bad_Bunny,Un_Verano_Sin_Ti,2022
+8154507,Calabria_2008,Enur,Raggatronic,2008
+9093296,Photograph,Ed_Sheeran,x,2014
+6201873,Crazy,Aerosmith,Get_A_Grip,1993
+6357522,Te_Vas,Ozuna,Te_Vas,2017
+9871499,Outside,Bryson_Tiller,Outside,2022
+5488371,Odiame,Julio_Jaramillo,El_Ruisenor_De_America,1989
+2524636,Raydar,JID,The_Forever_Story,2022
+9342657,In_The_End,Linkin_Park,Hybrid_Theory,2000
+5561015,Sweden,C418,Minecraft-Volume_Alpha,2011
+3013922,Cali_Panchangero,Grupo_Niche,The_Best,1988
+8682926,Yesterday,The_Beatles,Help!,1965
+8575184,I_Ain't_Worried,OneRepublic,I_Ain't_Worried,2022
+8028384,Mi_Viejo,Piero,Mi_Viejo,1969
+7303769,All_Off_Me,John_Legend,Love_In_The_Future,2013
+9115126,Monster,Imagine_Dragons,Smoke+Mirrors,2015
+3545278,512,Mora,Primer_Dia_De_Clases,2021
+9126987,Bobo,J_Balvin,Energia,2016
+2127881,Take_Care,Drake,Take_Care,2011
+2081393,Promise,Romeo_Santos,Formula_Vol.1,2012
+7522232,Godzilla,Eminem,Music_To_Be_Mudered_By,2020
+4064250,Riot,Three_Days_Grace,One-X,2006
+1909091,TUS_GAFITAS,Karol_G,MANANA_SERA_BONITO,2023
+7688756,Mbappe,Eladio_Carrion,Mbappe,2023
