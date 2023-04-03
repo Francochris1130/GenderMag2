@@ -181,7 +181,7 @@ public class main{
 		Scanner YearOrTitle = new Scanner(System.in);
 		String NumOrName = YearOrTitle.nextLine();
 
-		// Search for songs that match the user's input
+		//Match the user's input
 		try {
 			Scanner Skimming = new Scanner(AllSongs);
 			while (Skimming.hasNextLine()) {
@@ -192,9 +192,9 @@ public class main{
 				String songAlbum = songData[2];
 				String songYear = songData[3];
 
-				// Check if the song matches the user's search term
+				//Match the user's input
 				if (songYear.equals(NumOrName) || songTitle.equalsIgnoreCase(NumOrName)) {
-					System.out.printf("%s by %s (%s, %s)%n", songTitle, songArtist, songAlbum, songYear);
+					System.out.println(songTitle + songArtist + songAlbum + songYear);
 				}
 			}
 			
